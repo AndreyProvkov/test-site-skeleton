@@ -1,2 +1,6 @@
 # test-site-skeleton
-Learn project
+## Using technology
+- HTML
+- CSS
+- Skeleton
+
